@@ -3,3 +3,5 @@ To add a local repository, select file, add local repository, and select path.
 Clone a repository to create a local repository that you can work on. 
 
 Removed
+
+I like to eat eat eat apples and bananas 
