@@ -1,4 +1,4 @@
-#Creating a map in QGIS
+# Creating a map in QGIS
 
 ## Installing Open Layers
 In order to create add a map to QGIS, we need the Open Layers Plugin.
