@@ -19,7 +19,7 @@ Under the **Style** tab, you can select a symbol type to use, change the color o
 ### Color Schemes
 In the **Properties** window, we can also display data using a color scheme.  At the top pulldown menu, select **Graduated**.  This allows us to color our data points based on a value we select.  To the right of the the **Color ramp** is an edit button.  Select that, and in the next windo, there is a pulldown menu tabeled **Type**.  In that menu, select **Discrete**, which allows you to to choose colors for a range.  To change the color of a block, click on teh pentagon on the left end of the block, and pick a color.  For consistency, it is easiest to create your own color palette to work with which is covered below.
 
-####Creating a Color Pallete
+#### Creating a Color Pallete
 In any Color selection window, click on the tab with a grid of colors.  Here, you can see a pulldown menu with elipses.  Use that, and select New Pallete.  Now, when you select a  color using the color wheel, you can go back to the grid tab, and select the plus sign to add the color to your pallete.  Add all the colors you would like, then once you are done, select **Export Colors** under the same pulldown menu with the elipses.  This will allow you to save your color pallete for future use.
 
 ### Color Coding
